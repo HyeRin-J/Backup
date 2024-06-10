@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="MainFrm">
+      <UniqueIdentifier>{4940facc-2651-4ab8-8513-a1fcbbb201fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource/pch">
+      <UniqueIdentifier>{9f750612-8398-4cbf-9786-2441d1bc528e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{e6bb2092-51fa-4899-8d90-cf438d5c1156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Document">
+      <UniqueIdentifier>{3fd6143c-ecf0-4113-9b90-4f1d0aa4def8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View">
+      <UniqueIdentifier>{04c46edf-d84f-4ad5-8713-f1c506a63148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View\MainView">
+      <UniqueIdentifier>{b0344d96-e0fb-4eac-8822-d3e216e4b0a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View\AnimationPlayView">
+      <UniqueIdentifier>{245ed8ec-5ec3-4ca5-882d-217d3fc0fd3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View\SelectedView">
+      <UniqueIdentifier>{ff83478a-3b03-47f4-93e4-1b97ed69e8cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View\PivotView">
+      <UniqueIdentifier>{0a2359af-93a6-40fe-adfa-f722455fd1f3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainFrm.h">
+      <Filter>MainFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Resource/pch</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource/pch</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationTool.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationToolDoc.h">
+      <Filter>Document</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationToolView.h">
+      <Filter>View\MainView</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Resource/pch</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Resource/pch</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationPlayView.h">
+      <Filter>View\AnimationPlayView</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectedImageView.h">
+      <Filter>View\SelectedView</Filter>
+    </ClInclude>
+    <ClInclude Include="SetPivotView.h">
+      <Filter>View\PivotView</Filter>
+    </ClInclude>
+    <ClInclude Include="SetDelayDialog.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>MainFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Resource/pch</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationTool.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationToolDoc.cpp">
+      <Filter>Document</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationToolView.cpp">
+      <Filter>View\MainView</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationPlayView.cpp">
+      <Filter>View\AnimationPlayView</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectedImageView.cpp">
+      <Filter>View\SelectedView</Filter>
+    </ClCompile>
+    <ClCompile Include="SetPivotView.cpp">
+      <Filter>View\PivotView</Filter>
+    </ClCompile>
+    <ClCompile Include="SetDelayDialog.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="AnimationTool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\AnimationTool.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\AnimationToolDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\AnimationTool.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
