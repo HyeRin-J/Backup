@@ -24,7 +24,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📧 Contact </h2> <br> 
-    <div align= "center"> <a href=mailto:jhr2573@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhr2573@gmail.com"> </a>
+    <div align= "center"> <a href=mailto:jhr2573@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhr2573@gmail.com"></a> <a href=https://www.youtube.com/channel/UCXnN1pMfZ_2CFS9rYXAwH8A><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
