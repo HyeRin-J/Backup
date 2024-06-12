@@ -3,7 +3,11 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> c++로 작성한 코드 모음입니다. </div>
    <br>
 </div>
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ AnnTrophy </h2>
+
+<details open><summary>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ AnnTrophy </h2></summary>
+
+<h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">영상</h3>
 
 [![AnnTrophy](http://img.youtube.com/vi/V1SOQquYiwc/0.jpg)](https://youtu.be/V1SOQquYiwc)
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 세부 사항 </h3>
@@ -379,3 +383,4 @@ void SceneObjectManager::PostRender()
 }
 
 ```
+</details>
