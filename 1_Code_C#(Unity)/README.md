@@ -23,9 +23,6 @@
     </li>
     <li>📃 개발 환경 : Unity3D </li>
   </ul>
-데모 : 
-
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
 
 [Full Source Code](https://github.com/HyeRin-J/Atents/tree/master/BattleShip)</li>
 
@@ -795,7 +792,6 @@
     <li>📃 개발 환경 : Unity3D </li>
       </ul>
   </ul>
-데모 : 
 
 \[Full Source Code\](미공개)
 
@@ -895,9 +891,6 @@
     </li>
     <li>📃 개발 환경 : Unity3D </li>
   </ul>
-데모 : 
-
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
 
 \[Full Source Code\](https://github.com/HyeRin-J/Atents/tree/master/EOVR)
 
