@@ -4,7 +4,7 @@
    <br>
 </div>
 
-<details open> <summary>
+<details> <summary>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ BattleShip (2018) </h2> </summary>
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">영상</h3>
@@ -215,7 +215,7 @@
 ```
 </details>
 
-<details open> <summary>
+<details > <summary>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ CatsMaze (2021 ~ 2023) </h2> </summary>
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">영상</h3>
@@ -776,7 +776,7 @@
 ```
 </details>
 
-<details open> <summary>
+<details> <summary>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ CatsSurvival (2023) </h2> </summary>
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 세부 사항 </h3>
@@ -872,7 +872,7 @@
 
 </details>
 
-<details open> <summary>
+<details> <summary>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ EOVR(2018) </h2> </summary>
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">영상</h3>
