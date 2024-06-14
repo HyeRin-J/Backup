@@ -877,7 +877,7 @@
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">영상</h3>
 
-[![CatsMaze](http://img.youtube.com/vi/bwDjgqxpFag/0.jpg)](https://youtu.be/bwDjgqxpFag)
+[![EOVR](http://img.youtube.com/vi/bwDjgqxpFag/0.jpg)](https://youtu.be/bwDjgqxpFag)
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 세부 사항 </h3>
   <h5 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 세계수의 미궁 모작 프로젝트 </h5>
   <br>
@@ -892,7 +892,7 @@
     <li>📃 개발 환경 : Unity3D </li>
   </ul>
 
-\[Full Source Code\](https://github.com/HyeRin-J/Atents/tree/master/EOVR)
+![Full Source Code](https://github.com/HyeRin-J/Atents/tree/master/EOVR)
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Source Code </h3>
 
