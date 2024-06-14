@@ -892,7 +892,7 @@
     <li>📃 개발 환경 : Unity3D </li>
   </ul>
 
-![Full Source Code](https://github.com/HyeRin-J/Atents/tree/master/EOVR)
+[Full Source Code](https://github.com/HyeRin-J/Atents/tree/master/EOVR)
 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Source Code </h3>
 
