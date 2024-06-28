@@ -988,8 +988,9 @@
 ```
 
 <li>MonsterDamage</li>
+
 ```csharp
- //몬스터일 경우
+            //몬스터일 경우
             if (character.GetComponent<BattleMonster>() != null)
             {
                 latelyAttackMonster = character;
